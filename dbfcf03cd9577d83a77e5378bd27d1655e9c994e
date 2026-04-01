@@ -1,0 +1,25 @@
+seatunnel-connectors-v2/connector-milvus/src/main/java/org/apache/seatunnel/connectors/seatunnel/milvus/source/utils/MilvusSourceConverter.java
+  5f1c68f9b348adce 300-302
+seatunnel-connectors-v2/connector-milvus/src/main/java/org/apache/seatunnel/connectors/seatunnel/milvus/sink/utils/MilvusSchemaConverter.java
+  5f1c68f9b348adce 205-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "dbfcf03cd9577d83a77e5378bd27d1655e9c994e",
+  "prompts": {
+    "5f1c68f9b348adce": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "25a1b037-b1e9-46c4-8a23-34c29fe1c247",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
